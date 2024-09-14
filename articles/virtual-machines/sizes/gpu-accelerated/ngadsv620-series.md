@@ -40,13 +40,6 @@ vCPUs (Qty.) and Memory for each size
 
 Local (temp) storage info for each size
 
-| Size Name | Max Temp Storage Disks (Qty.) | Temp Disk Size (GiB) | Temp Disk Random Read (RR)<sup>1</sup> IOPS | Temp Disk Random Read (RR)<sup>1</sup> Speed (MBps) | Temp Disk Random Write (RW)<sup>1</sup> IOPS | Temp Disk Random Write (RW)<sup>1</sup> Speed (MBps) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Standard_NG8ads_V620_v1 | 1 | 256 |  |  |  |  |
-| Standard_NG16ads_V620_v1 | 1 | 512 |  |  |  |  |
-| Standard_NG32ads_V620_v1 | 1 | 1024 |  |  |  |  |
-| Standard_NG32adms_V620_v1 | 1 | 1024 |  |  |  |  |
-
 | Size Name | Max Temp Storage Disks (Qty.) | Temp Disk Size (GiB) | Temp Disk Random Read (RR)<sup>1</sup> IOPS | Temp Disk Random Read (RR)<sup>1</sup> Speed (MBps) | Temp Disk Random Write (RW)<sup>1</sup> IOPS | Temp Disk Random Write (RW)<sup>1</sup> Speed (MBps) | Max NVMe Disks (Qty.) | NVMe Disk Size (GiB) | NVMe Disk IOPS | NVMe Disk Speed (MBps) | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Standard_NG8ads_V620_v1  | 1 | 256  |  |  |  |  | 1  | 960 |  |  |
