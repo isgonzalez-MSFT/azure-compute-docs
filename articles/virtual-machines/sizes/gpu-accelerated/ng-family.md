@@ -29,7 +29,4 @@ ms.author: mattmcinnes
 [!INCLUDE [ngads-v620-series-specs](./includes/ngadsv620-series-specs.md)]
 
 
-### Previous-generation NG family series
-For older sizes, see [previous generation sizes](../previous-gen-sizes-list.md#gpu-accelerated-previous-gen-sizes).
-
 [!INCLUDE [sizes-footer](../includes/sizes-footer.md)]
