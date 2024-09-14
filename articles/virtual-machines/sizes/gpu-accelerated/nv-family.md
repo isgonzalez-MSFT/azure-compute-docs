@@ -54,6 +54,14 @@ ms.author: mattmcinnes
 [!INCLUDE [nvads-a10-v5-series-specs](./includes/nvadsa10v5-series-specs.md)]
 
 
+### NVads-V710 v5-series (Preview)
+[!INCLUDE [nvads-v710-v5-series-summary](add link to v710 series SUMMARY)]
+
+[View the full NVads-V710 v5-series page](add link to v710 series PAGE).
+
+[!INCLUDE [nvads-v710-v5-series-specs](add link to v710 series SPECS)]
+
+
 ### Previous-generation NV family series
 For older sizes, see [previous generation sizes](../previous-gen-sizes-list.md#gpu-accelerated-previous-gen-sizes).
 
